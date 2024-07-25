@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrpaul017" target="blank"><img src="https://img.shields.io/twitter/follow/mrpaul017?logo=twitter&style=for-the-badge" alt="mrpaul017" /></a> </p>
 
+- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/mrpaul017](https://www.datascienceportfol.io/mrpaul017)
 - 📫 How to reach me **tusharpaul2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
